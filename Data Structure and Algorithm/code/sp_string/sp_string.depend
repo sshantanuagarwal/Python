@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1390096734 source:c:\users\aditya\codes\sp_string\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<cmath>
+	<set>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1390335727 source:c:\users\aditya\codes\waterjug_ai\main.cpp
+	<iostream>
+	<cstdio>
+

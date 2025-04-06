@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1389820930 source:c:\users\aditya\codes\soldier\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+

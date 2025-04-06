@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392953157 source:c:\users\aditya\codes\toposort\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<cstdio>
+

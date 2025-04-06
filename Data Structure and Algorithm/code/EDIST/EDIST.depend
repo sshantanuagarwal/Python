@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1390167106 source:c:\users\aditya\codes\edist\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

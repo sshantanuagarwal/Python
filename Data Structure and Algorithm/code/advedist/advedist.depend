@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390168278 source:c:\users\aditya\codes\advedist\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+

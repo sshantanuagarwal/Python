@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392159930 source:c:\users\aditya\codes\hill_climbing\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

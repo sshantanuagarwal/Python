@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392172722 source:c:\users\aditya\codes\twodogs2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

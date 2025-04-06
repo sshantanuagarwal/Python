@@ -1,0 +1,106 @@
+Initial positions of the Missionaries and Cannibals
+c c c m m m  <boat>.....................
+*************************************************
+
+How many people are going to travel in the boat(1/2):2
+
+The First Enitity travelling is a missionary or cannibal(m/c):c
+
+The Second Enitity travelling is a missionary or cannibal(m/c):c
+
+Positions of the Missionaries and Cannibals
+c m m m .....................<boat> c c 
+*************************************************
+
+How many people are going to travel in the boat(1/2):1
+
+The Enitity travelling is a missionary or cannibal(m/c):c
+
+Positions of the Missionaries and Cannibals
+c c m m m  <boat>.....................c 
+*************************************************
+
+How many people are going to travel in the boat(1/2):2
+
+The First Enitity travelling is a missionary or cannibal(m/c):c
+
+The Second Enitity travelling is a missionary or cannibal(m/c):c
+
+Positions of the Missionaries and Cannibals
+m m m .....................<boat> c c c 
+*************************************************
+
+How many people are going to travel in the boat(1/2):1
+
+The Enitity travelling is a missionary or cannibal(m/c):c
+
+Positions of the Missionaries and Cannibals
+c m m m  <boat>.....................c c 
+*************************************************
+
+How many people are going to travel in the boat(1/2):2
+
+The First Enitity travelling is a missionary or cannibal(m/c):m
+
+The Second Enitity travelling is a missionary or cannibal(m/c):m
+
+Positions of the Missionaries and Cannibals
+c m .....................<boat> c c m m 
+*************************************************
+
+How many people are going to travel in the boat(1/2):2
+
+The First Enitity travelling is a missionary or cannibal(m/c):c
+
+The Second Enitity travelling is a missionary or cannibal(m/c):m
+
+Positions of the Missionaries and Cannibals
+c c m m  <boat>.....................c m 
+*************************************************
+
+How many people are going to travel in the boat(1/2):2
+
+The First Enitity travelling is a missionary or cannibal(m/c):m
+
+The Second Enitity travelling is a missionary or cannibal(m/c):m
+
+Positions of the Missionaries and Cannibals
+c c .....................<boat> c m m m 
+*************************************************
+
+How many people are going to travel in the boat(1/2):1
+
+The Enitity travelling is a missionary or cannibal(m/c):c
+
+Positions of the Missionaries and Cannibals
+c c c  <boat>.....................m m m 
+*************************************************
+
+How many people are going to travel in the boat(1/2):2
+
+The First Enitity travelling is a missionary or cannibal(m/c):c
+
+The Second Enitity travelling is a missionary or cannibal(m/c):c
+
+Positions of the Missionaries and Cannibals
+c .....................<boat> c c m m m 
+*************************************************
+
+How many people are going to travel in the boat(1/2):1
+
+The Enitity travelling is a missionary or cannibal(m/c):m
+
+Positions of the Missionaries and Cannibals
+c m  <boat>.....................c c m m 
+*************************************************
+
+How many people are going to travel in the boat(1/2):2
+
+The First Enitity travelling is a missionary or cannibal(m/c):c
+
+The Second Enitity travelling is a missionary or cannibal(m/c):m
+
+Positions of the Missionaries and Cannibals
+.....................<boat> c c c m m m 
+*************************************************
+

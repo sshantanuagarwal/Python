@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392623321 source:c:\users\aditya\codes\anagrams\main.cpp
+	<iostream>
+	<string.h>
+	<cmath>
+

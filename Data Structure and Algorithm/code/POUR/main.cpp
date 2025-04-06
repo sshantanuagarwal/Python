@@ -1,0 +1,90 @@
+#include <iostream>
+#include<cstdio>
+using namespace std;
+int gcd(int a,int b)
+{int r;
+while(b!=0)
+    {r=a%b;
+    a=b;
+    b=r;
+    }
+    return a;
+}
+int a,b,c,prev_x,prev_y,cnt,x,y,T,found,ans;
+int main()
+{//freopen("out.txt","w",stdout);
+    cin>>T;
+    while(T--)
+    {
+        found=0;
+        cin>>a>>b>>c;
+    if(c<=max(a,b))
+    {
+        if(c%gcd(a,b)==0)
+        {
+            found=1;
+        }
+    }
+    if(found==1)
+    {x=0;y=0;
+    cnt=0;
+    while(x!=c&&y!=c)
+    {
+        if(x==0)
+        {cnt++;
+        x=a;
+        }
+      if(x==c||y==c)
+        break;
+        cnt++;
+        prev_x=x;
+        prev_y=y;
+        if(y+x>b)
+        {y=b;x=prev_y+x-b;}
+        else
+        {y+=x;x=0;}
+          if(x==c||y==c)
+        break;
+        if(y==b)
+        {
+            cnt++;
+            y=0;
+        }
+        if(x==c||y==c)
+        break;
+    }
+    ans=cnt;
+        x=0;y=0;
+    cnt=0;
+    while(x!=c&&y!=c)
+    {
+        if(y==0)
+        {cnt++;
+        y=b;
+        }
+      if(x==c||y==c)
+        break;
+        cnt++;
+        prev_x=x;
+        prev_y=y;
+        if(y+x>a)
+        {x=a;y=prev_x+y-a;}
+        else
+        {x+=y;y=0;}
+          if(x==c||y==c)
+        break;
+        if(x==a)
+        {
+            cnt++;
+            x=0;
+        }
+        if(x==c||y==c)
+        break;
+    }
+    cout<<min(ans,cnt)<<endl;
+    }
+    else
+    cout<<"-1"<<endl;
+    }
+    return 0;
+}

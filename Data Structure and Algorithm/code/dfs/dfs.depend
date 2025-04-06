@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1389505718 source:c:\users\aditya\codes\dfs\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+

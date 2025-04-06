@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1393124723 source:c:\users\aditya\codes\blinnet\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+

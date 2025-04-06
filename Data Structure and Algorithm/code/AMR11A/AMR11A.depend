@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390081876 source:c:\users\aditya\codes\amr11a\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+

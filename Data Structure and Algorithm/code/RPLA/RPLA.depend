@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392949216 source:c:\users\aditya\codes\rpla\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

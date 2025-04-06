@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1389402600 source:c:\users\aditya\codes\mtrick\main.cpp
+	<iostream>
+	<cstdio>
+

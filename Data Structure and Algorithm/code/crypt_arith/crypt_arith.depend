@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1390900452 source:c:\users\aditya\codes\crypt_arith\main.cpp
+	"crypt.h"
+
+1390885294 c:\users\aditya\codes\crypt_arith\crypt.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<string.h>
+	<limits.h>
+

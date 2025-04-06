@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392426786 source:c:\users\aditya\codes\lemovie\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

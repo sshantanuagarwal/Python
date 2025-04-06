@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392626038 source:c:\users\aditya\codes\board_cutting\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

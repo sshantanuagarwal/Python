@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1392775722 source:c:\users\aditya\codes\topsort_lexi\main.cpp
+	<iostream>
+	<queue>
+

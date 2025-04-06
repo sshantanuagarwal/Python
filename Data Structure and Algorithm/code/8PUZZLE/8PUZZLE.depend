@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390941688 source:c:\users\aditya\codes\8puzzle\main.cpp
+	<iostream>
+	<deque>
+	<cstdio>
+

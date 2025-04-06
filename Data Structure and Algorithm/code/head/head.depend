@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1390882654 source:c:\users\aditya\codes\head\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<string.h>
+	<limits.h>
+

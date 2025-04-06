@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392160128 source:c:\users\aditya\codes\simple\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

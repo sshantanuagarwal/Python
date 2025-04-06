@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390133705 source:c:\users\aditya\codes\happynos\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

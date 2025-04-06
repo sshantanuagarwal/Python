@@ -1,0 +1,1 @@
+Enter initial 3x3 matrix (-1 as empty position) 

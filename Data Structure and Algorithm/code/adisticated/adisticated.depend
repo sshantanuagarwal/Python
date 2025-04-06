@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393043760 source:c:\users\aditya\codes\adisticated\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+

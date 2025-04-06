@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392191254 source:c:\users\aditya\codes\colarr\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdio>
+

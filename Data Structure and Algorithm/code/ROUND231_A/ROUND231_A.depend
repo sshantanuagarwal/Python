@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392959915 source:c:\users\aditya\codes\round231_a\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+

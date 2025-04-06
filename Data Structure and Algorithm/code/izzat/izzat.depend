@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392181652 source:c:\users\aditya\codes\izzat\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

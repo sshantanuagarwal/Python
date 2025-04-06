@@ -1,0 +1,3 @@
+  GHY+GHY=J
+  0 solution(s), 0 msec.
+Total time = 0 msec.

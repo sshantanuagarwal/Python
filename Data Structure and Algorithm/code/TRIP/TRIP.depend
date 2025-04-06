@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1389681115 source:c:\users\aditya\codes\trip\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

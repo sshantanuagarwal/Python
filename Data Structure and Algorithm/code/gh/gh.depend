@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390132577 source:c:\users\aditya\codes\gh\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

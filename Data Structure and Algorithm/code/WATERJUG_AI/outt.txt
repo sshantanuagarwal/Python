@@ -1,0 +1,19 @@
+STEPS	|   PROCESS			|  A	|  B  |
+ 	|              			|    	|     |
+-----------------------------------------------------------
+ 	|              			|    	|     |
+0	|  INTIALISING 			|  0 	|  0  |
+1	|  FILLING A FULLY		|  4	|  0  |
+2	|  POURING A TO B 		|  1	|  3  |
+3	|  EMPTYING B 			|  1	|  0  |
+4	|  POURING A TO B 		|  0	|  1  |
+5	|  FILLING A FULLY		|  4	|  1  |
+6	|  POURING A TO B 		|  2	|  3  |
+
+
+
+ACCOMPLISHED!!!
+
+
+
+Number Of Steps Involved = 6

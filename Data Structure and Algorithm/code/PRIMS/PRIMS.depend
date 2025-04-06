@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1393119349 source:c:\users\aditya\codes\prims\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<stdio.h>
+

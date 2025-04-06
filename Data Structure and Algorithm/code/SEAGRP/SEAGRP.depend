@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1389243856 source:c:\users\aditya\codes\seagrp\main.cpp
+	<cstdio>
+	<queue>
+	<vector>
+	<iostream>
+

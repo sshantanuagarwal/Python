@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1389734664 source:c:\users\aditya\codes\pigbank\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<cstdio>
+
